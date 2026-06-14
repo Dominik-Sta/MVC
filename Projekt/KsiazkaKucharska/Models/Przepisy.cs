@@ -6,15 +6,13 @@ public class Przepisy
 {
     public int Id { get; set; }
 
-    [Required]
-    [StringLength(100)]
-    public string? Name { get; set; }
+    [Required(ErrorMessage = "Nazwa jest wymagana")]
+    [StringLength(100, ErrorMessage = "Nazwa może mieć maksymalnie 100 znaków")]
+    public string Name { get; set; }
 
-    [Required]
-    [Display(Name = "Skladniki")]
-    public string? Skladnik { get; set; }
+    [Required(ErrorMessage = "Składniki są wymagane")]
+    public string Skladnik { get; set; }
 
-    [Required]
-    [Display(Name = "Instrukcja")]
-    public string? Instrukcja { get; set; }
+    [Required(ErrorMessage = "Instrukcja jest wymagana")]
+    public string Instrukcja { get; set; }
 }

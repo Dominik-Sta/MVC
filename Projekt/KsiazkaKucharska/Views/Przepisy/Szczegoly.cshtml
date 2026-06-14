@@ -1,0 +1,15 @@
+﻿@model KsiazkaKucharska.Models.Przepisy
+
+@{
+    ViewData["Title"] = "Szczegóły przepisu";
+}
+
+<h1>@Model.Name</h1>
+
+<p><strong>Składniki:</strong> @Model.Skladnik</p>
+<p><strong>Instrukcja:</strong> @Model.Instrukcja</p>
+
+<p>
+    <a asp-action="Edytuj" asp-route-id="@Model.Id" class="btn btn-warning">Edytuj</a>
+    <a asp-action="Index" class="btn btn-secondary">Wróć do listy</a>
+</p>

@@ -1,0 +1,21 @@
+﻿@model KsiazkaKucharska.Models.Przepisy
+
+@{
+    ViewData["Title"] = "Usuń przepis";
+}
+
+<h1>Usuń przepis</h1>
+
+<h3>Czy na pewno chcesz usunąć ten przepis?</h3>
+
+<div>
+    <h4>@Model.Name</h4>
+    <p><strong>Składniki:</strong> @Model.Skladnik</p>
+    <p><strong>Instrukcja:</strong> @Model.Instrukcja</p>
+</div>
+
+<form asp-action="Usun" method="post">
+    <input type="hidden" asp-for="Id" />
+    <input type="submit" value="Usuń" class="btn btn-danger" />
+    <a asp-action="Index" class="btn btn-secondary">Anuluj</a>
+</form>

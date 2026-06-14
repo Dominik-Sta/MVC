@@ -5,23 +5,32 @@
 }
 
 <h1>Lista przepisów</h1>
-
+<p>
+    <a asp-action="Dodawanie" class="btn btn-primary">Dodaj nowy przepis</a>
+</p>
 <table class="table">
     <thead>
         <tr>
             <th>Nazwa</th>
             <th>Składniki</th>
             <th>Instrukcja</th>
+            <th>Akcje</th>
         </tr>
     </thead>
     <tbody>
+
         @foreach (var p in Model)
         {
             <tr>
                 <td>@p.Name</td>
                 <td>@p.Skladnik</td>
                 <td>@p.Instrukcja</td>
-            </tr>
+            <td>
+                <a asp-action="Edytuj" asp-route-id="@p.Id" class="btn btn-sm btn-warning">Edytuj</a>
+                <a asp-action="Usun" asp-route-id="@p.Id" class="btn btn-sm btn-danger ms-1">Usuń</a>
+                <a asp-action="Szczegoly" asp-route-id="@p.Id" class="btn btn-sm btn-info me-1">Szczegóły</a>
+            </td>
+           </tr>
         }
     </tbody>
 </table>
