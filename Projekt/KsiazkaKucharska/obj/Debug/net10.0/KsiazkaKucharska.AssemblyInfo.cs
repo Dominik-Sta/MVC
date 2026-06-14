@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KsiazkaKucharska")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fc91d48a1619242e7399b0c7471c117ce6e547f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4098c2dde13fb21fb6488439fee9018eb73c3a79")]
 [assembly: System.Reflection.AssemblyProductAttribute("KsiazkaKucharska")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KsiazkaKucharska")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

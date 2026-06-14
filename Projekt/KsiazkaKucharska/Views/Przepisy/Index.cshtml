@@ -1,0 +1,27 @@
+﻿@model IEnumerable<KsiazkaKucharska.Models.Przepisy>
+
+@{
+    ViewData["Title"] = "Lista przepisów";
+}
+
+<h1>Lista przepisów</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nazwa</th>
+            <th>Składniki</th>
+            <th>Instrukcja</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.Name</td>
+                <td>@p.Skladnik</td>
+                <td>@p.Instrukcja</td>
+            </tr>
+        }
+    </tbody>
+</table>
