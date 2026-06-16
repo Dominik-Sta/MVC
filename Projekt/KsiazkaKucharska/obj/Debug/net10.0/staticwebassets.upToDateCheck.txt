@@ -61,6 +61,7 @@ wwwroot\lib\jquery\dist\jquery.slim.js
 wwwroot\lib\jquery\dist\jquery.slim.min.js
 wwwroot\lib\jquery\dist\jquery.slim.min.map
 wwwroot\lib\jquery\LICENSE.txt
+wwwroot\images\Jedzenie.png
 C:\Users\Dominik\Documents\MVC\Projekt\KsiazkaKucharska\wwwroot\css\site.css
 C:\Users\Dominik\Documents\MVC\Projekt\KsiazkaKucharska\wwwroot\favicon.ico
 C:\Users\Dominik\Documents\MVC\Projekt\KsiazkaKucharska\wwwroot\js\site.js

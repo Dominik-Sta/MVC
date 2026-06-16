@@ -1,6 +1,7 @@
 ﻿using KsiazkaKucharska.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Linq;
+using System.Xml.Linq;
 
 namespace KsiazkaKucharska.Controllers;
 
@@ -11,7 +12,7 @@ public class PrzepisyController : Controller
         new Przepisy
         {
             Id = 1,
-            Name = "Spaghetti Bolognese",
+            Name = "Spagheti Bolognese",
             Skladnik = "Makaron, mięso mielone, pomidory, cebula, czosnek",
             Instrukcja = "Ugotuj makaron, podsmaż ważywa delikatnie, dodaj mięso i trzymaj na ogniu aż mięso będzie gotowe, dodaj pomidory, wymieszaj."
         },
@@ -25,15 +26,37 @@ public class PrzepisyController : Controller
         new Przepisy
         {
             Id = 3,
+            Name = "Pieczony ziemniak",
+            Skladnik = "Ziemniak duży, masło, sół",
+            Instrukcja = "Wrzucić ziemniaka do żaru potrzymać 45minut, wyjąć przebić jak mięki rozciąć i dodać masło i sól, jak twardy jeszcze na kilka minut do żaru."
+        },
+        new Przepisy
+        {
+            Id = 4,
             Name = "Potrawka ze wszystkiego",
             Skladnik = "seler, marchewka, cebula, pietruszka, mięso mielone, cukinia, mocarella, papryka, czosnek, pomidory, olej",
             Instrukcja = "Podsmaż czosnek na oleju, dodaj cebulę, selera, pietruszkę, paprykę. Dodaj mięso i pomidory, duś pod przykryciem, potem warzywa i ser."
+        },
+        new Przepisy
+        {
+            Id = 5,
+            Name = "Byczy kufel",
+            Skladnik = "Piwo, goździki, miód, cynamon, cytrusy, kieliszek mocnego trunku",
+            Instrukcja = "wymieszać wszystko w garnku, ważne nie doprowadzić do wrzenia ale podawać gorące."
         }
     };
 
-    public IActionResult Index()
+    public IActionResult Index(string searchString)
     {
-        return View(_przepisy);
+        var przepisy = _przepisy.AsEnumerable();
+
+        if (!string.IsNullOrEmpty(searchString))
+        {
+            przepisy = przepisy
+                .Where(p => p.Name.Contains(searchString, StringComparison.OrdinalIgnoreCase));
+        }
+
+        return View(przepisy);
     }
 
     public IActionResult Dodawanie()

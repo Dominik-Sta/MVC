@@ -6,8 +6,16 @@
 
 <h1>Lista przepisów</h1>
 <p>
+
     <a asp-action="Dodawanie" class="btn btn-primary">Dodaj nowy przepis</a>
 </p>
+<form asp-action="Index" method="get" class="mb-3">
+    <div class="input-group">
+        <input type="text" name="searchString" class="form-control" placeholder="Szukaj po nazwie..." />
+        <button type="submit" class="btn btn-outline-secondary">Szukaj</button>
+    </div>
+</form>
+
 <table class="table">
     <thead>
         <tr>
