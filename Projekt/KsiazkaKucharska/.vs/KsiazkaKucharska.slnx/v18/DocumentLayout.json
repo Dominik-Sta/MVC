@@ -88,7 +88,7 @@
               "RelativeDocumentMoniker": "README.txt",
               "ToolTip": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\README.txt",
               "RelativeToolTip": "README.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2026-06-16T18:19:05.131Z",
               "EditorCaption": ""
@@ -115,8 +115,7 @@
               "RelativeToolTip": "Controllers\\PrzepisyController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T07:18:23.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-14T07:18:23.225Z"
             },
             {
               "$type": "Document",
