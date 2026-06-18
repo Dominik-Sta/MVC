@@ -7,32 +7,12 @@
       "RelativeMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|solutionrelative:readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|c:\\users\\dominik\\documents\\mvc\\projekt\\ksiazkakucharska\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|c:\\users\\dominik\\documents\\mvc\\projekt\\ksiazkakucharska\\controllers\\przepisycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|solutionrelative:controllers\\przepisycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|c:\\users\\dominik\\documents\\mvc\\projekt\\ksiazkakucharska\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|c:\\users\\dominik\\documents\\mvc\\projekt\\ksiazkakucharska\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|c:\\users\\dominik\\documents\\mvc\\projekt\\ksiazkakucharska\\views\\przepisy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|solutionrelative:views\\przepisy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|c:\\users\\dominik\\documents\\mvc\\projekt\\ksiazkakucharska\\views\\przepisy\\edytuj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|solutionrelative:views\\przepisy\\edytuj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|c:\\users\\dominik\\documents\\mvc\\projekt\\ksiazkakucharska\\views\\przepisy\\usun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|solutionrelative:views\\przepisy\\usun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|c:\\users\\dominik\\documents\\mvc\\projekt\\ksiazkakucharska\\views\\przepisy\\dodawanie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|solutionrelative:views\\przepisy\\dodawanie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|c:\\users\\dominik\\documents\\mvc\\projekt\\ksiazkakucharska\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -47,16 +27,40 @@
       "RelativeMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|solutionrelative:views\\przepisy\\szczegoly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|c:\\users\\dominik\\documents\\mvc\\projekt\\ksiazkakucharska\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|c:\\users\\dominik\\documents\\mvc\\projekt\\ksiazkakucharska\\views\\przepisy\\dodawanie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|solutionrelative:views\\przepisy\\dodawanie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|c:\\users\\dominik\\documents\\mvc\\projekt\\ksiazkakucharska\\views\\przepisy\\edytuj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|solutionrelative:views\\przepisy\\edytuj.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|c:\\users\\dominik\\documents\\mvc\\projekt\\ksiazkakucharska\\views\\przepisy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|solutionrelative:views\\przepisy\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|c:\\users\\dominik\\documents\\mvc\\projekt\\ksiazkakucharska\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|c:\\users\\dominik\\documents\\mvc\\projekt\\ksiazkakucharska\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|c:\\users\\dominik\\documents\\mvc\\projekt\\ksiazkakucharska\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|c:\\users\\dominik\\documents\\mvc\\projekt\\ksiazkakucharska\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|c:\\users\\dominik\\documents\\mvc\\projekt\\ksiazkakucharska\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|c:\\users\\dominik\\documents\\mvc\\projekt\\ksiazkakucharska\\views\\przepisy\\usun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|solutionrelative:views\\przepisy\\usun.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|c:\\users\\dominik\\documents\\mvc\\projekt\\ksiazkakucharska\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E00C762E-2C63-ADDD-B508-9843515F509B}|KsiazkaKucharska.csproj|c:\\users\\dominik\\documents\\mvc\\projekt\\ksiazkakucharska\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,11 +78,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-18T18:37:26.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-18T18:37:24.205Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -88,74 +118,66 @@
               "RelativeDocumentMoniker": "README.txt",
               "ToolTip": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\README.txt",
               "RelativeToolTip": "README.txt",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
               "WhenOpened": "2026-06-16T18:19:05.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-14T08:00:16.185Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PrzepisyController.cs",
-              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Controllers\\PrzepisyController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PrzepisyController.cs",
-              "ToolTip": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Controllers\\PrzepisyController.cs",
-              "RelativeToolTip": "Controllers\\PrzepisyController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T07:18:23.225Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-14T07:56:41.061Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Przepisy\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Przepisy\\Index.cshtml",
               "ToolTip": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Przepisy\\Index.cshtml",
               "RelativeToolTip": "Views\\Przepisy\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-14T07:51:17.975Z"
+              "WhenOpened": "2026-06-14T07:51:17.975Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Edytuj.cshtml",
               "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Przepisy\\Edytuj.cshtml",
               "RelativeDocumentMoniker": "Views\\Przepisy\\Edytuj.cshtml",
               "ToolTip": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Przepisy\\Edytuj.cshtml",
               "RelativeToolTip": "Views\\Przepisy\\Edytuj.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-14T19:16:54.389Z"
+              "WhenOpened": "2026-06-14T19:16:54.389Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Dodawanie.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Przepisy\\Dodawanie.cshtml",
+              "RelativeDocumentMoniker": "Views\\Przepisy\\Dodawanie.cshtml",
+              "ToolTip": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Przepisy\\Dodawanie.cshtml",
+              "RelativeToolTip": "Views\\Przepisy\\Dodawanie.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-14T18:44:34.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-14T07:56:41.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Usun.cshtml",
               "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Przepisy\\Usun.cshtml",
               "RelativeDocumentMoniker": "Views\\Przepisy\\Usun.cshtml",
@@ -167,19 +189,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Dodawanie.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Przepisy\\Dodawanie.cshtml",
-              "RelativeDocumentMoniker": "Views\\Przepisy\\Dodawanie.cshtml",
-              "ToolTip": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Przepisy\\Dodawanie.cshtml",
-              "RelativeToolTip": "Views\\Przepisy\\Dodawanie.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-14T18:44:34.993Z"
+              "WhenOpened": "2026-06-14T07:56:59.645Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-14T08:00:16.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PrzepisyController.cs",
+              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Controllers\\PrzepisyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PrzepisyController.cs",
+              "ToolTip": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Controllers\\PrzepisyController.cs",
+              "RelativeToolTip": "Controllers\\PrzepisyController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-14T07:18:23.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -187,11 +236,12 @@
               "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-14T07:56:42.658Z"
+              "WhenOpened": "2026-06-14T07:56:42.658Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "Przepisy.cs",
               "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Models\\Przepisy.cs",
               "RelativeDocumentMoniker": "Models\\Przepisy.cs",
@@ -199,11 +249,12 @@
               "RelativeToolTip": "Models\\Przepisy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-14T07:06:21.791Z"
+              "WhenOpened": "2026-06-14T07:06:21.791Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 5,
               "Title": "Szczegoly.cshtml",
               "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\Przepisy\\Szczegoly.cshtml",
               "RelativeDocumentMoniker": "Views\\Przepisy\\Szczegoly.cshtml",
@@ -211,11 +262,12 @@
               "RelativeToolTip": "Views\\Przepisy\\Szczegoly.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-14T19:41:01.273Z"
+              "WhenOpened": "2026-06-14T19:41:01.273Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -227,31 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-14T07:56:58.505Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-06-14T07:56:59.645Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -263,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Dominik\\Documents\\MVC\\Projekt\\KsiazkaKucharska\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",

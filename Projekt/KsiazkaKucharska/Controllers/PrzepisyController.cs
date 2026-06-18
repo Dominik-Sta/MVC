@@ -12,14 +12,14 @@ public class PrzepisyController : Controller
         new Przepisy
         {
             Id = 1,
-            Name = "Spagheti Bolognese",
+            Name = "Spagheti Bologa",
             Skladnik = "Makaron, mięso mielone, pomidory, cebula, czosnek",
             Instrukcja = "Ugotuj makaron, podsmaż ważywa delikatnie, dodaj mięso i trzymaj na ogniu aż mięso będzie gotowe, dodaj pomidory, wymieszaj."
         },
         new Przepisy
         {
             Id = 2,
-            Name = "Naleśniki",
+            Name = "Cienkie Placki",
             Skladnik = "Mąka, mleko, jajka, sól, olej",
             Instrukcja = "Wymieszaj składniki na ciasto, smaż cienkie placki na patelni."
         },
